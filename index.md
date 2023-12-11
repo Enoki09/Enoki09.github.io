@@ -1,8 +1,10 @@
+# Hello World
+
 This is my home page! My name is Enoch shi and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/Enoki09.
+My GitHub page is [http://github.com/Enoki09](http://github.com/Enoki09/).
 
 ### CPSC 120
 

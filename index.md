@@ -1,4 +1,4 @@
-# Enoch Shi's Portfolio
+# Enoch Shi's [Portfolio](https://enoki09.github.io)
 
 This is my home page! My name is Enoch shi and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
 
